@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int testing(int n) {
-	return n;
+	return n + 2;
 }
 
