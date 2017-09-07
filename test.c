@@ -3,5 +3,6 @@
 
 int testing(int n) {
 	n *= 2; //comment
+	//comment
 	return n;
 }
